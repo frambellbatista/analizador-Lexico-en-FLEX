@@ -1,0 +1,3 @@
+Saludos, este es un archivo documentado de prueba que corresponde a la actividad de crear un analizador Léxico en FLEX
+que cuenta las palabras y letras
+Frambel Batista 2-16-2377
